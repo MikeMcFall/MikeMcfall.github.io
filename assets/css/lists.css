@@ -1,0 +1,8 @@
+ol.main > li > ol {
+  list-style-type: lower-alpha;
+}
+
+ol.main > li > ol > li > ol {
+  list-style-type: lower-roman;
+}
+
